@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Avidluv](https://img.shields.io/badge/Avidluv-github-blue?logo=github)](https://github.com/AvidLuv)
 
 He is currently pursuing a Master's Degree in Robotics, University of Manchester, United Kingdom.
 
