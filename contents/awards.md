@@ -1,1 +1,2 @@
-- Second-prize UoM Line-Following Buggy Match, 2023.
+- <strong>01/07/2020 - 01/09/2020</strong>:Interned at Accelink Technologies Co., Ltd. in Wuhan from July to September 2020 as an optical communication chip testing technician. The role involved gaining experience in the design and manufacturing processes of indium phosphide-based optical communication chips
+- <strong>01/07/2022 - 01/09/2022</strong>:Interned at Raytron Technology's Wuhan branch from July to September 2022 as an image recognition researcher. The focus was on studying and attempting to optimize neural networks for image recognition in intelligent driving systems.
