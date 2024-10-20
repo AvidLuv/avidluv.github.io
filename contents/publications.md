@@ -1,4 +1,4 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- <strong>Line-Folloing Buggy</strong>As a programmer in the line-following robot project at the University of Manchester, I was responsible for reading data from light and speed sensors using C language, processing the sensor data, and implementing a PID algorithm to enable the robot to follow a pre-set white line both swiftly and stably. The entire system was developed on an STM32F401RE microcontroller, and our team secured second place in the final competition.
 
 - X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
 
