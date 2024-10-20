@@ -14,3 +14,6 @@ B.E., Electonic Engineering, University of Mancheser,United Kingdom 2021—2024.
 #### Research Interests
 Deep Learning, Computer Vision, Embedded System.
 
+#### Technical Skills
+System Verilog, Python, C++, C, Linux, MATHLAB, OpenCV, Rasperberry Pi, STM32 series
+
