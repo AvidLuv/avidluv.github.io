@@ -8,8 +8,8 @@ He is currently pursuing a Master's Degree in Robotics, University of Manchester
 zihan.yue@student.manchester.ac.uk
 
 #### Education
-M.E., Robotics, United Kingdom University of Mancheser, 2024—2025 (expected).\
-B.E., Electonic Engineering, United Kingdom University of Mancheser, 2021—2024.
+M.E., Robotics, University of Mancheser,United Kingdom 2024—2025 (expected).\
+B.E., Electonic Engineering, University of Mancheser,United Kingdom 2021—2024.
 
 #### Research Interests
 Deep Learning, Computer Vision, Embedded System.
