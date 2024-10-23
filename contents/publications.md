@@ -8,12 +8,14 @@
         </div>
     </div>
 
-- <strong>Dynamic Gesture Recognition</strong>: 
+<strong>Dynamic Gesture Recognition</strong>: 
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <div style="flex: 1;">
-            An independent development of a dynamic gesture recognition system for an embedded system was achieved. The system utilizes the Mediapipe hand keypoints model to extract keypoints from a live video stream. Angle features between keypoint vectors are calculated and stacked to form a time series of gesture features. Fast Dynamic Time Warping (FastDTW) is then applied to measure the similarity between the live gesture's feature time series and the dataset, enabling accurate gesture recognition. [[Code]](https://github.com/AvidLuv/Dynamic-Gesture-Recognition-by-Using-DTW)
+            An independent development of a dynamic gesture recognition system for an embedded system was achieved. The system utilizes the Mediapipe hand keypoints model to extract keypoints from a live video stream. Angle features between keypoint vectors are calculated and stacked to form a time series of gesture features. Fast Dynamic Time Warping (FastDTW) is then applied to measure the similarity between the live gesture's feature time series and the dataset, enabling accurate gesture recognition. <a href="https://github.com/AvidLuv/Dynamic-Gesture-Recognition-by-Using-DTW">Code</a>
         </div>
         <div style="flex: 1; text-align: right; padding-left: 20px;">
             <img src="static/assets/dynamic_gesture_recognition.gif" alt="Dynamic Gesture Recognition GIF" style="width: 500px !important; max-width: 500px !important; border-radius: 5px;"/>
         </div>
     </div>
+
+
