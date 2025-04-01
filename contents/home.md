@@ -17,3 +17,4 @@ Deep Learning, Computer Vision, Embedded System.
 #### Technical Skills
 System Verilog, Python, C++, C, Linux, MATHLAB, OpenCV, Rasperberry Pi, STM32 series
 
+[📄 Download CV](static/assets/my_cv.pdf)
